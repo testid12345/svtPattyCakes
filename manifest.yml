@@ -1,5 +1,5 @@
 ---
 applications:
 - name: PattyCakes
-  memory: 512M
+  memory: 768M
   disk_quota: 1024M
